@@ -68,13 +68,13 @@ const rahil = {
 
 - 📧 **Email:** [rahilkunwar1@gmail.com](mailto:rahilkunwar1@gmail.com)
 - 💻 **GitHub:** [rahilkunwar3](https://github.com/rahilkunwar3)
-- 📸 **Instagram:** [@rahilkunwar](https://www.instagram.com/rahilkunwar_/)
-- 👤 **Facebook:** [rahilkunwar](https://www.facebook.com/rahil.kunwar.icp.2025/)
+- 📸 **Instagram:** [@rahilkunwar_](https://www.instagram.com/rahilkunwar_/)
+- 👤 **Facebook:** [rahil.kunwar.icp.2025](https://www.facebook.com/rahil.kunwar.icp.2025/)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahilkunwar3&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rahilkunwar3&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
