@@ -39,10 +39,7 @@ Welcome to my GitHub profile! I'm an undergraduate IT student at **Informatics C
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
 ## 🚀 Featured Projects
-
-Here are some projects I'm working on or have built:
 
 - 📱 **Mobile App** - React Native application
 - 💻 **Web Application** - React with Spring Boot
@@ -66,9 +63,20 @@ const rahil = {
   funFact: "I love turning ideas into reality through code!"
 };
 ```
+
 ## 📫 Let's Connect
 
 - 📧 **Email:** [rahilkunwar1@gmail.com](mailto:rahilkunwar1@gmail.com)
 - 💻 **GitHub:** [rahilkunwar3](https://github.com/rahilkunwar3)
 - 📸 **Instagram:** [@rahilkunwar](https://www.instagram.com/rahilkunwar_/)
 - 👤 **Facebook:** [rahilkunwar](https://www.facebook.com/rahil.kunwar.icp.2025/)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahilkunwar3&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <i>⭐️ Thanks for visiting my profile! 🚀</i>
+</p>
