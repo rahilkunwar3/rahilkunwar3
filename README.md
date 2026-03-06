@@ -69,6 +69,6 @@ const rahil = {
 ## 📫 Let's Connect
 
 - 📧 **Email:** [rahilkunwar1@gmail.com](mailto:rahilkunwar1@gmail.com)
-- 💻 **GitHub:** [rahilkunwarcoder13](https://github.com/rahilkunwar3)
+- 💻 **GitHub:** [rahilkunwar3](https://github.com/rahilkunwar3)
 - 📸 **Instagram:** [@rahilkunwar](https://www.instagram.com/rahilkunwar_/)
 - 👤 **Facebook:** [rahilkunwar](https://www.facebook.com/rahil.kunwar.icp.2025/)
